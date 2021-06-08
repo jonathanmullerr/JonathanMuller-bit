@@ -16,7 +16,8 @@
  
 <div> 
  
-  ![Snake animation](https://github.com/JonathanMuller-bit/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JonathanMuller-bit/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+# JonathanMuller-bit
 # JonathanMuller-bit
