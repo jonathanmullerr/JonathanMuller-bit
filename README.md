@@ -1,4 +1,4 @@
-## Olá! Eu sou o Jonathan! Desesenvolvedor backend Ruby on Rails
+## Jonathan Muller, desenvolvedor Backend RoR
 
  <div>
   <a href="https://github.com/JonathanMuller-bit/JonathanMuller-bit">
