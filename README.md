@@ -17,7 +17,7 @@ Back-end Developer at [@herospark](https://herospark.com/)
 
 My name is Jonathan Muller and i'm enthusiast of Ruby-related technologies.
 - 🔭 I’m currently working on [@herospark](https://herospark.com/) with Ruby-related technologies.
-- 🌱 I’m currently learning Clean Architecture, SOLID and DevOps stuff.
+- 🌱 I’m currently learning Golang and DevOps stuff.
 - 📫 How to reach me: click on any of the badges above and call me to chat 💬
 
 <!--
